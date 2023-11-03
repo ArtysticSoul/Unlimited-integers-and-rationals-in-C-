@@ -24,7 +24,7 @@ The UnlimitedRational class includes the following attributes and methods:
 - get p() and get q(): Methods to access the numerator and denominator as UnlimitedInt objects.
 - get p str() and get q str(): Methods to retrieve the numerator and denominator as string representations.
 - get frac str(): Method to return the rational number as a string in the form ”p/q”. If p/q is positive, then both ”p/q” and ”-p/-q” would be acceptable as answers. Similarly if p/q is negative, then the ”-”sign can be either in the numerator or the denominator.
-- 
+   
 • Arithmetic operations such as addition, subtraction, multiplication, division for UnlimitedRational objects.
 Note the following error conditions:\
 
